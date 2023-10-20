@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PreferenciaCompartidas</string>
+    <string name="email">Correo electronico</string>
+    <string name="pasword">Contraseña</string>
+    <string name="Iniciar_Secion">iniciar Secion</string>
+    <string name="chk_Recordar">Recordar</string>
+    <string name="btn_IniciarSecion">Iniciar Secion</string>
+    <string name="error_password_invalido">Contraseña invalida</string>
+    <string name="error_campo_requerido">Este Campo es Requerido</string>
+    <string name="error_email_invalido">Correo Invalido</string>
+
+
+
+</resources>
